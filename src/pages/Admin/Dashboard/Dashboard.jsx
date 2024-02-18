@@ -36,7 +36,7 @@ function Dashboard() {
                             style={{ color: mode === 'dark' ? 'white' : 'black' }} className="font-semibold">
                         </h2>
                         <h2
-                            style={{ color: mode === 'dark' ? 'white' : 'black' }} className="font-semibold">knupadhyay784@gmail.com
+                            style={{ color: mode === 'dark' ? 'white' : 'black' }} className="font-semibold">steamexpacc@gmail.com
                         </h2>
                         <h2
                             style={{ color: mode === 'dark' ? 'white' : 'black' }} className="font-semibold">
