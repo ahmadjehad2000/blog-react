@@ -4,6 +4,10 @@ const withMT = require("@material-tailwind/react/utils/withMT");
    content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
    theme: {
      extend: {},
+     fontFamily:{
+      customFont:['Poppins','sans-serif']
+     },
    },
-   plugins: [],
+   plugins: [
+   ],
  });
